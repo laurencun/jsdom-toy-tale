@@ -23,7 +23,7 @@ When the page loads, make a 'GET' request to fetch all the toy objects. With the
 response data, make a `<div class="card">` for each toy and add it to the
 toy-collection `div`.
 
-## Add Toy Info to the Card
+## Add Toy Info to the Card 
 
 Each card should have the following child elements:
 
@@ -65,6 +65,7 @@ body: JSON.stringify({
 ```
 
 * For examples, refer to the [documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#Supplying_request_options).
+
 
 ## Increase Toy's Likes
 

@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 8
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 12
     },
     {
       "id": 3,
@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 11
+    },
+    {
+      "name": "furby red",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhIWFRUWGBYYGBcVFRYZFRoWFxgYFxkYGBgYHSggGBolGxUWIjEiJSkrLi4uGB8zODMsNyotLisBCgoKDg0OGxAQGy8lHyUvLy8tNS0tLS0tLy4vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOIA3wMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQMEBQIGBwj/xABAEAABAwIDBQUGBAYBAwUBAAABAAIRAyEEEjEFQVFhcQYTIoGRBzKhscHwFFLR4SMzQmJygqJTkvEkQ2OywhX/xAAaAQABBQEAAAAAAAAAAAAAAAAAAQIDBAUG/8QAMBEAAgEDBAECBAQHAQAAAAAAAAECAwQRBRIhMUETUSIyYaFxgZGxFCMkQsHR4RX/2gAMAwEAAhEDEQA/AO3OcBcqC3bOHJgYilPDvGT81R+0vGupYCplJBeWU5GsOPi/4grjvd8z6/QqpcXXpSxg07LTv4iDm5YPRjXTdKvPuD2pXokGnVqMjTu3lo82GWO9FtuxvaPXb4azGVuY/hVPjLHH/tSU72Eu+B1XSa0OY8nVULX9idrsLiXd2x+Sp/06gLH/AOs2f/qStglW4yUllGZOEoPElhgkQhOGghAQgAQhCABCVCAESJShAAhLCRACJUJUAIhKUgQAIQqLbPa3CYZ2R9TNU/6dIF9TzDfd/wBiE2UlFZY6EJTeIrLL1C5jtj2jVT4aNNlHm/8Ai1I/xaQ1p6k9FqON21iKxmpVqPJ/O85fKkyGD0KqzvaceuTRpaVWmsy4O6OxtMHKajAeBe2fSVIC851JgmSDui0ekLvPZfFGrg8PUOrqTCf8soB+KW3ufVbWMDLyx/h4qWc5Ne9rI/8AQzwqsPwd+q5UF172m0S/Z9X+11N3o4A/Arj1F0gKlfL+Z+Rq6Q/6d/j/AKMyE",
+      "likes": 7,
+      "id": 9
     }
   ]
 }
